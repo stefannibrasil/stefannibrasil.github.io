@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/about-me/</loc>
+    <lastmod>2019-09-23T10:05:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/posts/new-me-new-blog/</loc>
+    <lastmod>2019-09-23T09:59:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/posts/</loc>
+    <lastmod>2019-09-23T09:59:18-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/</loc>
+    <lastmod>2019-09-23T10:05:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
