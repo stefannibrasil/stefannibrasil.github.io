@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.stefannibrasil.me/posts/about-being-humble/</loc>
+    <lastmod>2019-09-24T06:54:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/posts/about-cognitive-bias-and-investments/</loc>
+    <lastmod>2019-09-24T06:50:46-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.stefannibrasil.me/about-me/</loc>
     <lastmod>2019-09-23T10:05:22-07:00</lastmod>
   </url>
@@ -19,13 +29,13 @@
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/</loc>
-    <lastmod>2019-09-23T09:59:18-07:00</lastmod>
+    <lastmod>2019-09-24T06:54:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/</loc>
-    <lastmod>2019-09-23T10:05:22-07:00</lastmod>
+    <lastmod>2019-09-24T06:54:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   
