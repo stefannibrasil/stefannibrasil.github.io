@@ -1,57 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.stefannibrasil.me/posts/a-life-hack-advice/</loc>
-    <lastmod>2020-03-05T12:07:44-08:00</lastmod>
+    <loc>https://www.stefannibrasil.me/about/</loc>
+    <lastmod>2021-01-28T10:45:09-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stefannibrasil.me/posts/my-2019/</loc>
-    <lastmod>2019-12-29T19:55:25-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stefannibrasil.me/posts/about-being-humble/</loc>
-    <lastmod>2019-09-24T06:54:34-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stefannibrasil.me/posts/about-cognitive-bias-and-investments/</loc>
-    <lastmod>2019-09-24T06:50:46-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stefannibrasil.me/about-me/</loc>
-    <lastmod>2019-09-23T10:05:22-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stefannibrasil.me/posts/new-me-new-blog/</loc>
-    <lastmod>2019-09-23T09:59:18-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stefannibrasil.me/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</loc>
+    <lastmod>2021-01-28T10:36:51-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/</loc>
-    <lastmod>2020-03-05T12:07:44-08:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-28T10:36:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/tags/self-improvement/</loc>
+    <lastmod>2021-01-28T10:36:51-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/</loc>
-    <lastmod>2020-03-05T12:07:44-08:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2021-01-28T10:36:51-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/tags/</loc>
-    <priority>0</priority>
+    <lastmod>2021-01-28T10:36:51-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/categories/</loc>
   </url>
   
 </urlset>

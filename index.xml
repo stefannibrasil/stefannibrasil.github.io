@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefanni Brasil</title>
@@ -6,74 +6,25 @@
     <description>Recent content on Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2020 12:07:44 -0800</lastBuildDate>
-    
-	<atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 28 Jan 2021 10:36:51 -0800</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Life Hack Advice</title>
-      <link>https://www.stefannibrasil.me/posts/a-life-hack-advice/</link>
-      <pubDate>Thu, 05 Mar 2020 12:07:44 -0800</pubDate>
+      <title>About me</title>
+      <link>https://www.stefannibrasil.me/about/</link>
+      <pubDate>Thu, 28 Jan 2021 10:45:09 -0800</pubDate>
       
-      <guid>https://www.stefannibrasil.me/posts/a-life-hack-advice/</guid>
-      <description>I believe that we live our everyday lives without actually reflecting on our habits and why we do things the way we always do. Have you ever wondered about that?
-For example, why do we go to school for more than 10 years and are required to sit down all day and just act as we are told? Why do we keep a 40-hour week as the standard way of working even now when we use our brains more than our hands to work?</description>
+      <guid>https://www.stefannibrasil.me/about/</guid>
+      <description>About the hexdevs podcast/blog and the team.</description>
     </item>
     
     <item>
-      <title>My 2019</title>
-      <link>https://www.stefannibrasil.me/posts/my-2019/</link>
-      <pubDate>Sun, 29 Dec 2019 19:55:25 -0800</pubDate>
+      <title>How to Practice Self Confidence</title>
+      <link>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</link>
+      <pubDate>Thu, 28 Jan 2021 10:36:51 -0800</pubDate>
       
-      <guid>https://www.stefannibrasil.me/posts/my-2019/</guid>
-      <description>It took me at least almost 30 years to finally live in peace with depression and anxiety. I honestly didn&amp;rsquo;t believe I would still be alive at this age. I&amp;rsquo;m relieved life started to be something I&amp;rsquo;m not angry at anymore all the time. That I can say is my greatest lesson from this year!
-Besides that, it&amp;rsquo;s amazing the number of things that I&amp;rsquo;m happy to share:
- I started a podcast called hexdevs.</description>
-    </item>
-    
-    <item>
-      <title>About Being Humble</title>
-      <link>https://www.stefannibrasil.me/posts/about-being-humble/</link>
-      <pubDate>Tue, 24 Sep 2019 06:54:34 -0700</pubDate>
-      
-      <guid>https://www.stefannibrasil.me/posts/about-being-humble/</guid>
-      <description>Today I listened to this Canadian Couch Potato podcast episode. It was a talk with Dr. Steve Wendel on the Investor Success.
-The episode, besides the great content, caught my attention when Dr. Wendel mentioned that financial advisors and their clients have different expectations from each other.
-They discussed research showing that financial advisors have high expectations that their clients, beyond other goals, were counting on them to avoid making bad investments decisions.</description>
-    </item>
-    
-    <item>
-      <title>About Cognitive Bias and Investments</title>
-      <link>https://www.stefannibrasil.me/posts/about-cognitive-bias-and-investments/</link>
-      <pubDate>Tue, 24 Sep 2019 06:50:46 -0700</pubDate>
-      
-      <guid>https://www.stefannibrasil.me/posts/about-cognitive-bias-and-investments/</guid>
-      <description>Everyone who is in debt today (and originally didn’t plan to be), once thought they would be able to pay it back in a few years.
- Everyone who (unfortunately) died climbing the everest, once thought they were prepared to reach the peak.
-  Not that i’m the first one to think that, but this insight does not come to us naturally. The first book that i read about the way we think was Thinking, fast and slow.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://www.stefannibrasil.me/about-me/</link>
-      <pubDate>Mon, 23 Sep 2019 10:05:22 -0700</pubDate>
-      
-      <guid>https://www.stefannibrasil.me/about-me/</guid>
-      <description>Hello, I’m Stefanni. Thanks for visiting my blog!
-To give you a brief context about me, I’m originally from Brazil but I’ve been living in Vancouver, BC since 2018. I’m a Software Developer currently working at Lendesk, in Vancouver.
-Professionally speaking, my interests are getting better at TDD, Pair Programming, Refactoring and AWS/Cloud infrastructure.
-I am also one of the hosts of the hexdevs podcast, where we interview amazing people working in the tech industry to help you become a better developer.</description>
-    </item>
-    
-    <item>
-      <title>New Me, New Blog</title>
-      <link>https://www.stefannibrasil.me/posts/new-me-new-blog/</link>
-      <pubDate>Mon, 23 Sep 2019 09:59:18 -0700</pubDate>
-      
-      <guid>https://www.stefannibrasil.me/posts/new-me-new-blog/</guid>
-      <description>I’ve been thinking of switching my blog to Hugo for a while. The main reason for that is because I’ve changed a lot since I first started writing on my previous wordpress blog. My interests have changed a lot and I think it’s time to move to something new.
-I intend to discuss more about different interests, not just about software. That said, you can expect to find here posts about books, financial independence, living a more healthy lifestyle, including adopting environmental-friendly habits, investments, immigrating, and projects that i’m working on as I build them.</description>
+      <guid>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</guid>
+      <description>hello world!
+hello, again!
+   </description>
     </item>
     
   </channel>
