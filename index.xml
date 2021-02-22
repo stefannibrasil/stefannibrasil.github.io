@@ -6,7 +6,34 @@
     <description>Recent content on Stefanni Brasil - The Kind Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jan 2021 10:36:51 -0800</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 10:52:41 -0800</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thank You</title>
+      <link>https://www.stefannibrasil.me/thank-you/</link>
+      <pubDate>Mon, 22 Feb 2021 11:17:13 -0800</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/thank-you/</guid>
+      <description>Thank you!
+Welcome to this newsletter.
+I&amp;rsquo;m happy that you decided to be strategic about learning how to make a living with Ruby on Rails in 2021.
+If you think your friends and followers might benefit from this newsletter, would you share this?
+Click here to tweet
+See you in your inbox!
+-Stefanni from stefannibrasil.me</description>
+    </item>
+    
+    <item>
+      <title>Is Ruby on Rails Still Relevant in 2021</title>
+      <link>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</link>
+      <pubDate>Mon, 22 Feb 2021 10:52:41 -0800</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</guid>
+      <description>You have been thinking of learning Ruby on Rails in 202 and you search about it online.
+It&amp;rsquo;s not long until you encounter these type of questions all around the internet:
+You might wonder to yourself: &amp;ldquo;What if RoR is a dying domain? Is there a future for Ruby on Rails? Will I be better off choosing the traditional web dev JS road?&amp;rdquo;
+The shorter answer is that it depends on what you&amp;rsquo;re looking for in your career.</description>
+    </item>
+    
     <item>
       <title>Start here ⭐</title>
       <link>https://www.stefannibrasil.me/about/</link>
