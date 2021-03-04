@@ -3,23 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.stefannibrasil.me/about/</loc>
-    <lastmod>2021-02-12T16:50:57-08:00</lastmod>
+    <loc>https://www.stefannibrasil.me/thank-you/</loc>
+    <lastmod>2021-02-25T21:23:41-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</loc>
-    <lastmod>2021-02-12T16:18:22-08:00</lastmod>
+    <loc>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</loc>
+    <lastmod>2021-03-03T18:32:50-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/</loc>
-    <lastmod>2021-02-12T16:18:22-08:00</lastmod>
+    <lastmod>2021-03-03T18:32:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/tags/ruby-on-rails/</loc>
+    <lastmod>2021-03-03T18:32:50-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/</loc>
-    <lastmod>2021-02-12T16:18:22-08:00</lastmod>
+    <lastmod>2021-03-03T18:32:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/tags/</loc>
+    <lastmod>2021-03-03T18:32:50-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/about/</loc>
+    <lastmod>2021-03-03T17:50:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</loc>
+    <lastmod>2021-03-03T17:50:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/tags/mental-health/</loc>
+    <lastmod>2021-03-03T17:50:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/tags/self-improvement/</loc>
+    <lastmod>2021-03-03T17:50:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/categories/</loc>
   </url>
   
 </urlset>

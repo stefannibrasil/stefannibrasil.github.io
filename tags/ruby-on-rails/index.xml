@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruby on rails on Stefanni Brasil - The Kind Developer</title>
+    <link>https://www.stefannibrasil.me/tags/ruby-on-rails/</link>
+    <description>Recent content in ruby on rails on Stefanni Brasil - The Kind Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Feb 2021 10:52:41 -0800</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is Ruby on Rails Still Relevant in 2021</title>
+      <link>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</link>
+      <pubDate>Mon, 22 Feb 2021 10:52:41 -0800</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</guid>
+      <description>You have been thinking of learning Ruby on Rails in 2021.
+You even started tinkering with Ruby and you love how quirky, dynamic and fun it makes you feel.
+But then, it&amp;rsquo;s not long until you find questions such as:
+And you start questioning yourself: &amp;ldquo;What if RoR is a dying domain? Will I be better going with Python, Go?&amp;rdquo;
+Although you are certain you don&amp;rsquo;t want to go with the traditional web dev JS road, you are not convinced Ruby on Rails is a good path to go.</description>
+    </item>
+    
+  </channel>
+</rss>
