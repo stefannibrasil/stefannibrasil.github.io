@@ -6,9 +6,20 @@
     <description>Recent content in Posts on Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 13:19:46 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 13:12:38 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Finding balance between present and future with FIRE</title>
+      <title>5 Ways to Handle Your Rails API Authentication</title>
+      <link>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</link>
+      <pubDate>Thu, 01 Apr 2021 13:12:38 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</guid>
+      <description>Which authentication strategy should you use for Rails API? How to implement a secure authentication strategy is by the far the most confusing part of building an API.
+It&amp;rsquo;s extremely important to evaluate your app requirements before choosing any strategy in the first place to avoid any security implications.
+There&amp;rsquo;s nothing worse than having to turn your entire Rails API-only into a regular Rails app because midway you realized you needed an OAuth authentication code flow or have an interface for your users, right?</description>
+    </item>
+    
+    <item>
+      <title>Finding balance between present and future with the FIRE movement</title>
       <link>https://www.stefannibrasil.me/posts/balance-present-future-fire/</link>
       <pubDate>Fri, 19 Mar 2021 13:19:46 -0700</pubDate>
       
@@ -24,25 +35,20 @@ Looking back, I get mad at myself for putting savings before my mental health ne
       <pubDate>Mon, 22 Feb 2021 10:52:41 -0800</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</guid>
-      <description>You have been thinking of learning Ruby on Rails in 2021.
-You even started tinkering with Ruby and you love how quirky, dynamic and fun it makes you feel.
-But then, it&amp;rsquo;s not long until you find questions such as:
-And you start questioning yourself: &amp;ldquo;What if RoR is a dying domain? Will I be better going with Python, Go?&amp;rdquo;
-Although you are certain you don&amp;rsquo;t want to go with the traditional web dev JS road, you are not convinced Ruby on Rails is a good path to go.</description>
+      <description>When I was learning how to code in 2016, Ruby on Rails was trending and every startup was using it. It was obvious that learning Rails would be an easy way to get my first dev job.
+But that was 5 years ago. If I were a beginner in programming today, going with a JavaScript framework such as React or Vue would be the easiest choice.
+Asking &amp;ldquo;what if RoR is a dying domain?</description>
     </item>
     
     <item>
-      <title>How to Become Confident - Tips &amp; Books</title>
+      <title>8 key activites that helped me build self-confidence</title>
       <link>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</link>
       <pubDate>Thu, 28 Jan 2021 10:36:51 -0800</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</guid>
-      <description>I believed I had to had born confident. And I wasn&amp;rsquo;t, so why keep trying?
-How happy I am to have been wrong about that!
-This post brings some tips from the book &amp;ldquo;The Confidence Code: The Science and Art of Self-Assurance - What women should know&amp;rdquo;.
-And some lessons from my Cognitive Behaviour Therapy sessions.
-Ready? 🚀
-How to practice Self-Confidence  When in doubt, ACT. Decide. What kills overconfidence is overthinking.</description>
+      <description>I believed I had to had born confident. And I wasn’t, so why keep trying? How happy I am to have been wrong about that!
+This post brings some exercises from the book “The Confidence Code: The Science and Art of Self-Assurance - What women should know”, and some lessons from my Cognitive Behaviour Therapy sessions.
+Start practicing these 8 keys activities and see how you feel a few weeks from now.</description>
     </item>
     
   </channel>

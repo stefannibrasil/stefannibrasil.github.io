@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ruby on rails on Stefanni Brasil</title>
-    <link>https://www.stefannibrasil.me/tags/ruby-on-rails/</link>
-    <description>Recent content in ruby on rails on Stefanni Brasil</description>
+    <title>rails api on Stefanni Brasil</title>
+    <link>https://www.stefannibrasil.me/tags/rails-api/</link>
+    <description>Recent content in rails api on Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 13:12:38 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 13:12:38 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/rails-api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5 Ways to Handle Your Rails API Authentication</title>
       <link>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</link>
@@ -16,17 +16,6 @@
       <description>Which authentication strategy should you use for Rails API? How to implement a secure authentication strategy is by the far the most confusing part of building an API.
 It&amp;rsquo;s extremely important to evaluate your app requirements before choosing any strategy in the first place to avoid any security implications.
 There&amp;rsquo;s nothing worse than having to turn your entire Rails API-only into a regular Rails app because midway you realized you needed an OAuth authentication code flow or have an interface for your users, right?</description>
-    </item>
-    
-    <item>
-      <title>Is Ruby on Rails Still Relevant in 2021</title>
-      <link>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</link>
-      <pubDate>Mon, 22 Feb 2021 10:52:41 -0800</pubDate>
-      
-      <guid>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</guid>
-      <description>When I was learning how to code in 2016, Ruby on Rails was trending and every startup was using it. It was obvious that learning Rails would be an easy way to get my first dev job.
-But that was 5 years ago. If I were a beginner in programming today, going with a JavaScript framework such as React or Vue would be the easiest choice.
-Asking &amp;ldquo;what if RoR is a dying domain?</description>
     </item>
     
   </channel>

@@ -1,25 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Stefanni Brasil - The Kind Developer</title>
+    <title>Tags on Stefanni Brasil</title>
     <link>https://www.stefannibrasil.me/tags/</link>
-    <description>Recent content in Tags on Stefanni Brasil - The Kind Developer</description>
+    <description>Recent content in Tags on Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Feb 2021 10:52:41 -0800</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 13:12:38 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rails api</title>
+      <link>https://www.stefannibrasil.me/tags/rails-api/</link>
+      <pubDate>Thu, 01 Apr 2021 13:12:38 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/tags/rails-api/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ruby on rails</title>
       <link>https://www.stefannibrasil.me/tags/ruby-on-rails/</link>
-      <pubDate>Mon, 22 Feb 2021 10:52:41 -0800</pubDate>
+      <pubDate>Thu, 01 Apr 2021 13:12:38 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/tags/ruby-on-rails/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>financial independence</title>
+      <link>https://www.stefannibrasil.me/tags/financial-independence/</link>
+      <pubDate>Fri, 19 Mar 2021 13:19:46 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/tags/financial-independence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FIRE</title>
+      <link>https://www.stefannibrasil.me/tags/fire/</link>
+      <pubDate>Fri, 19 Mar 2021 13:19:46 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/tags/fire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mental health</title>
       <link>https://www.stefannibrasil.me/tags/mental-health/</link>
-      <pubDate>Thu, 28 Jan 2021 10:36:51 -0800</pubDate>
+      <pubDate>Fri, 19 Mar 2021 13:19:46 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/tags/mental-health/</guid>
       <description></description>
