@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Apr 2021 13:12:38 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Thank You</title>
+      <link>https://www.stefannibrasil.me/thank-you/</link>
+      <pubDate>Sat, 03 Apr 2021 18:17:12 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/thank-you/</guid>
+      <description>Thank you! Welcome to this newsletter.
+See you in your inbox!
+-Stefanni from stefannibrasil.me</description>
+    </item>
+    
+    <item>
       <title>5 Ways to Handle Your Rails API Authentication</title>
       <link>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</link>
       <pubDate>Thu, 01 Apr 2021 13:12:38 -0700</pubDate>
