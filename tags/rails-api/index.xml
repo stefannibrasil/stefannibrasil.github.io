@@ -6,7 +6,17 @@
     <description>Recent content in rails api on Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Apr 2021 13:12:38 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/rails-api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Apr 2021 17:41:48 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/rails-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which Rails mode should you choose to build your API?</title>
+      <link>https://www.stefannibrasil.me/posts/which-rails-mode-for-implementing-apis/</link>
+      <pubDate>Mon, 05 Apr 2021 17:41:48 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/which-rails-mode-for-implementing-apis/</guid>
+      <description>Ruby on Rails API-only mode gives you all the API standard template functionalities (JSON requests, HTTT header requests, Parameter parsing, Basic, Digest, and Token Authentication, etc.) following the well-known Rails standards.
+Before you get too excited and run rails new thecoolest--api on your terminal, you need to take some time to consider what your requirements and future needs are. This step is crucial because it will determine how to securely authenticate your resources.</description>
+    </item>
+    
     <item>
       <title>5 Ways to Handle Your Rails API Authentication</title>
       <link>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</link>
