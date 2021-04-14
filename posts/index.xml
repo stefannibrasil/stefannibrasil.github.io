@@ -13,9 +13,9 @@
       <pubDate>Mon, 05 Apr 2021 17:41:48 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/should-you-go-with-rails-api-only/</guid>
-      <description>Ruby on Rails API-only gives you all the API standard functionalities (JSON, HTTP headers, Parameter parsing, and Token Authentication, etc.) following the well-known Rails standards.
-Before you get too excited and run rails new thecoolest --api on your terminal, you need to take some time to consider what your needs are. You might run into the most confusing part of an API-only Rails app: implementing a secure authentication strategy.
-That&amp;rsquo;s because a Rails API-only requests are stateless, so it won&amp;rsquo;t include any functionalities primarily used by browser clients, such as sessions and cookies.</description>
+      <description>Before you get too excited and run rails new thecoolest --api on your terminal, you need to take some time to consider what your needs are.
+How to choose which Rails alternative to implement your API? To help you decide which Rails alternative you should use, here is a comparison of the most common API scenarios:
+   Requirements Rails API-only Full Rails stack     Login/logout (sessions) N Y   Cookies N Y   Social logins (FB, Google) N Y   Render HTML (web interfaces) N Y   HTTP Header Authentication Y Y   JSON Y Y    If your client will be a SPA (single-page application) or a native mobile app, and that&amp;rsquo;s where all the user interaction is going to live, then Rails API-only is a good choice.</description>
     </item>
     
     <item>
@@ -25,8 +25,9 @@ That&amp;rsquo;s because a Rails API-only requests are stateless, so it won&amp;
       
       <guid>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</guid>
       <description>Which authentication strategy should you use for Rails API? How to implement a secure authentication strategy is by the far the most confusing part of building an API.
-It&amp;rsquo;s extremely important to evaluate your app requirements before choosing any strategy in the first place to avoid any security implications.
-There&amp;rsquo;s nothing worse than having to turn your entire Rails API-only into a regular Rails app because midway you realized you needed an OAuth authentication code flow or have an interface for your users, right?</description>
+It&amp;rsquo;s important to evaluate your app requirements before choosing any strategy in the first place to avoid any security implications.
+To help you figure out which authentication strategy is the best for your case, here are 5 possible solutions for you:
+Rails API-only If your API is running as a standalone app and you don&amp;rsquo;t need a web interface of any sort, then a header-based token auth might be enough.</description>
     </item>
     
     <item>
@@ -36,7 +37,7 @@ There&amp;rsquo;s nothing worse than having to turn your entire Rails API-only i
       
       <guid>https://www.stefannibrasil.me/posts/balance-present-future-fire/</guid>
       <description>The first time I realized I was being too future-focused was when I got in a bad mental health state in 2020.
-I didn’t want to pay for Cognitive-Behavior Therapy sessions. I could have, but I didn’t want to spend money on it.
+I didn’t want to pay for Cognitive-Behavior Therapy sessions. I could have, but I didn’t want to spend money on it. Not super clever, I know.
 Looking back, I get mad at myself for putting savings before my mental health needs. This experience changed me, since it took me less than one year to improve my mental health, live a happier and confident life.</description>
     </item>
     
@@ -46,13 +47,13 @@ Looking back, I get mad at myself for putting savings before my mental health ne
       <pubDate>Mon, 22 Feb 2021 10:52:41 -0800</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</guid>
-      <description>Are you thinking of investing your time learning Ruby on Rails but you&amp;rsquo;re not sure you&amp;rsquo;re gonna find a job? Then this post is for you.
-When I was learning how to code in 2016, Ruby on Rails was trending and every startup was using it. It was obvious that learning Rails would be an easy way to get my first dev job.
-But that was more than 4 years ago.</description>
+      <description>&amp;ldquo;Maybe Python or Go is a better choice? Or even Javascript?&amp;rdquo; If you&amp;rsquo;ve been asking yourself these questions, this post is for you.
+When I was learning how to code in 2016, Ruby on Rails was trending and every startup was using it. It was obvious that learning Rails would be an easy way to get my first dev job. We&amp;rsquo;re in 2021, though, and things have changed.
+The answer to &amp;ldquo;Is Rails still relevant?</description>
     </item>
     
     <item>
-      <title>8 key activites that helped me build self-confidence</title>
+      <title>8 activites to build self-confidence</title>
       <link>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</link>
       <pubDate>Thu, 28 Jan 2021 10:36:51 -0800</pubDate>
       

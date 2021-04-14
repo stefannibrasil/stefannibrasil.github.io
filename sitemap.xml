@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.stefannibrasil.me/railsconf/</loc>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.stefannibrasil.me/posts/</loc>
-    <lastmod>2021-04-05T20:28:01-07:00</lastmod>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/should-you-go-with-rails-api-only/</loc>
-    <lastmod>2021-04-05T20:28:01-07:00</lastmod>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/</loc>
-    <lastmod>2021-04-05T20:28:01-07:00</lastmod>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
   </url>
   
   <url>
@@ -24,27 +29,27 @@
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</loc>
-    <lastmod>2021-04-05T19:01:58-07:00</lastmod>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/balance-present-future-fire/</loc>
-    <lastmod>2021-04-01T21:27:12-07:00</lastmod>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/is-ruby-on-rails-still-relevant/</loc>
-    <lastmod>2021-04-05T19:01:58-07:00</lastmod>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/about/</loc>
-    <lastmod>2021-04-07T20:32:23-07:00</lastmod>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/how-to-practice-self-confidence/</loc>
-    <lastmod>2021-04-01T21:27:12-07:00</lastmod>
+    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
   </url>
   
 </urlset>
