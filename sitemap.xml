@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.stefannibrasil.me/confirm-your-subscription/</loc>
+    <lastmod>2021-04-19T17:29:16-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.stefannibrasil.me/railsconf/</loc>
-    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
+    <lastmod>2021-04-19T17:29:16-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/</loc>
-    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
+    <lastmod>2021-04-19T17:29:16-07:00</lastmod>
   </url>
   
   <url>
@@ -19,22 +24,22 @@
   
   <url>
     <loc>https://www.stefannibrasil.me/</loc>
-    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
+    <lastmod>2021-04-19T17:29:16-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/thank-you/</loc>
-    <lastmod>2021-04-03T18:29:42-07:00</lastmod>
+    <lastmod>2021-04-19T17:29:16-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</loc>
-    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
+    <lastmod>2021-04-19T17:29:16-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stefannibrasil.me/posts/balance-present-future-fire/</loc>
-    <lastmod>2021-04-13T21:06:38-07:00</lastmod>
+    <lastmod>2021-04-19T17:29:16-07:00</lastmod>
   </url>
   
   <url>

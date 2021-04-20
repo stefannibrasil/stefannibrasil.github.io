@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Apr 2021 17:41:48 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Check your email</title>
+      <link>https://www.stefannibrasil.me/confirm-your-subscription/</link>
+      <pubDate>Mon, 19 Apr 2021 17:07:09 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/confirm-your-subscription/</guid>
+      <description>Check your email! Be sure to check your inbox to confirm your subscription:
+The email is coming from &amp;ldquo;Stefanni&amp;rdquo;. If you can&amp;rsquo;t find it in your inbox, check your other tabs or the spam folder.
+Still can&amp;rsquo;t find it? Send me an email at stefanni at hexdevs dot com and I&amp;rsquo;ll fix it for you.</description>
+    </item>
+    
+    <item>
       <title>Rails Conf 2021 Slides &#43; Rails API-only Cheat Sheet</title>
       <link>https://www.stefannibrasil.me/railsconf/</link>
       <pubDate>Tue, 13 Apr 2021 19:00:24 -0700</pubDate>
@@ -37,9 +48,9 @@ How to choose which Rails alternative to implement your API? To help you decide 
       <pubDate>Sat, 03 Apr 2021 18:17:12 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/thank-you/</guid>
-      <description>Thank you! Welcome to this newsletter.
+      <description>Welcome to this newsletter!
 See you in your inbox!
--Stefanni from stefannibrasil.me</description>
+-Stefanni</description>
     </item>
     
     <item>
@@ -55,7 +66,7 @@ Rails API-only If your API is running as a standalone app and you don&amp;rsquo;
     </item>
     
     <item>
-      <title>Finding balance between present and future with the FIRE movement</title>
+      <title>Balancing present and future with the FIRE movement</title>
       <link>https://www.stefannibrasil.me/posts/balance-present-future-fire/</link>
       <pubDate>Fri, 19 Mar 2021 13:19:46 -0700</pubDate>
       
