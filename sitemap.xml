@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.stefannibrasil.me/posts/</loc>
+    <lastmod>2021-04-20T12:49:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/</loc>
+    <lastmod>2021-04-20T12:49:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stefannibrasil.me/posts/will-i-find-work-if-i-learn-ruby/</loc>
+    <lastmod>2021-04-20T12:49:49-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.stefannibrasil.me/confirm-your-subscription/</loc>
     <lastmod>2021-04-19T17:29:16-07:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>https://www.stefannibrasil.me/posts/</loc>
-    <lastmod>2021-04-19T17:36:23-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.stefannibrasil.me/posts/should-you-go-with-rails-api-only/</loc>
-    <lastmod>2021-04-19T17:36:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stefannibrasil.me/</loc>
     <lastmod>2021-04-19T17:36:23-07:00</lastmod>
   </url>
   
