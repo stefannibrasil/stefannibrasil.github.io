@@ -1,3 +1,7 @@
 User-agent: *
-Disallow: /downloads/*
-
+Disallow: /confirm-your-subscription/*
+Disallow: /thank-you/
+Disallow: /railsconf/
+Disallow: /downloads/
+Disallow: /tags/
+Disallow: /categories/
