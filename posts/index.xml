@@ -13,9 +13,9 @@
       <pubDate>Tue, 20 Apr 2021 11:12:56 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/will-i-find-work-if-i-learn-ruby/</guid>
-      <description>Ruby is keeping you interested in transitioning to the software development world. But you&amp;rsquo;re not sure you&amp;rsquo;re gonna be employable. You might have heard that you should just choose JavaScript because, you know, Ruby is a dying domain.
+      <description>Ruby is keeping you interested in transitioning to the software development world. But you&amp;rsquo;re not sure you&amp;rsquo;re gonna be employable. You might have heard that you should just choose JavaScript because, you know, everyone is saying Ruby is a dying domain.
 But you don&amp;rsquo;t see yourself keeping up with the Kardashians traditional JS web dev world.
-You know there are plenty of Ruby/Rails jobs out there. But how do you get your first one?</description>
+You know there are plenty of Ruby/Rails jobs out there. But how do you get your first one as a junior dev?</description>
     </item>
     
     <item>
@@ -24,9 +24,9 @@ You know there are plenty of Ruby/Rails jobs out there. But how do you get your 
       <pubDate>Mon, 05 Apr 2021 17:41:48 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/should-you-go-with-rails-api-only/</guid>
-      <description>Before you get too excited and run rails new thecoolest --api on your terminal, you need to take some time to consider what your needs are.
-How to choose which Rails alternative to implement your API? To help you decide which Rails alternative you should use, here is a comparison of the most common API scenarios:
-   Requirements Rails API-only Full Rails stack     Login/logout (sessions) N Y   Cookies N Y   Social logins (FB, Google) N Y   Render HTML (web interfaces) N Y   HTTP Header Authentication Y Y   JSON Y Y    If your client will be a SPA (single-page application) or a native mobile app, and that&amp;rsquo;s where all the user interaction is going to live, then Rails API-only is a good choice.</description>
+      <description>Before you get too excited and run rails new thecoolest --api on your terminal, it might be a good idea to take some time to consider what your needs are.
+How different is a Rails API-only from a full-stack Rails app? As you can see in the image below, the API-only is a lighter version of a full stack Rails app:
+The reason why it&amp;rsquo;s lighter is because Rails API-only won&amp;rsquo;t render HTML pages, handle user sessions &amp;amp; cookies, nor display any assets.</description>
     </item>
     
     <item>
