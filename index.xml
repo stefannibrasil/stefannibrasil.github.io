@@ -6,7 +6,20 @@
     <description>Recent content on Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 11:12:56 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Apr 2021 15:43:57 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Contribute to Ruby on Rails Open Source project</title>
+      <link>https://www.stefannibrasil.me/posts/how-to-contribute-to-ruby-on-rails-project-on-github/</link>
+      <pubDate>Wed, 28 Apr 2021 15:43:57 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/how-to-contribute-to-ruby-on-rails-project-on-github/</guid>
+      <description>Step 1: Decide to find one open-source project to contribute 😎
+Step 2: Keep looking 👀
+Step 3: They are all intimidating, is that normal? 😑
+Step 4: What if I contributed to a project I have lots of experience with, like rails? I&amp;rsquo;d love to understand more about this tool I use every day 🤔
+Step 5: OMG, the code is huge and scary, Will this even run on my machine?</description>
+    </item>
+    
     <item>
       <title>Will I Find Work if I Learn Ruby?</title>
       <link>https://www.stefannibrasil.me/posts/will-i-find-work-if-i-learn-ruby/</link>
@@ -24,7 +37,7 @@ You know there are plenty of Ruby/Rails jobs out there. But how do you get your 
       <pubDate>Mon, 19 Apr 2021 17:07:09 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/confirm-your-subscription/</guid>
-      <description>Check your inbox to confirm your subscription: The email is coming from &amp;ldquo;Stefanni&amp;rdquo;. If you can&amp;rsquo;t find it in your inbox, check your other tabs or the spam folder.
+      <description>Welcome! Please check your inbox to confirm your subscription: The email is coming from &amp;ldquo;Stefanni&amp;rdquo;. If you can&amp;rsquo;t find it in your inbox, check your other tabs or the spam folder.
 Still can&amp;rsquo;t find it? Send me an email at stefanni at hexdevs dot com and I&amp;rsquo;ll fix it for you.
 See you in your inbox!</description>
     </item>
@@ -60,7 +73,7 @@ The reason why it&amp;rsquo;s lighter is because Rails API-only won&amp;rsquo;t 
       <pubDate>Sat, 03 Apr 2021 18:17:12 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/thank-you/</guid>
-      <description>Welcome to this newsletter!
+      <description>Welcome to this newsletter! It&amp;rsquo;s great to have you here.
 See you soon!
 -Stefanni</description>
     </item>
