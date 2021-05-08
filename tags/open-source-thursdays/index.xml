@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source thursdays on Stefanni Brasil</title>
+    <link>https://www.stefannibrasil.me/tags/open-source-thursdays/</link>
+    <description>Recent content in open source thursdays on Stefanni Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Apr 2021 15:43:57 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/open-source-thursdays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Contribute to Ruby on Rails Open Source project</title>
+      <link>https://www.stefannibrasil.me/posts/how-to-contribute-to-ruby-on-rails-project-on-github/</link>
+      <pubDate>Wed, 28 Apr 2021 15:43:57 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/how-to-contribute-to-ruby-on-rails-project-on-github/</guid>
+      <description>Step 1: Decide to find one open-source project to contribute 😎
+Step 2: Keep looking 👀
+Step 3: They are all intimidating, is that normal? 😑
+Step 4: What if I contributed to a project I have lots of experience with, like rails? I&amp;rsquo;d love to understand more about this tool I use every day 🤔
+Step 5: OMG, the code is huge and scary, Will this even run on my machine?</description>
+    </item>
+    
+  </channel>
+</rss>

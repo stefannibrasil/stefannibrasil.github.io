@@ -13,9 +13,9 @@
       <pubDate>Mon, 05 Apr 2021 17:41:48 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/should-you-go-with-rails-api-only/</guid>
-      <description>Ruby on Rails API-only gives you all the API standard functionalities (JSON, HTTP headers, Parameter parsing, and Token Authentication, etc.) following the well-known Rails standards.
-Before you get too excited and run rails new thecoolest --api on your terminal, you need to take some time to consider what your needs are. You might run into the most confusing part of an API-only Rails app: implementing a secure authentication strategy.
-That&amp;rsquo;s because a Rails API-only requests are stateless, so it won&amp;rsquo;t include any functionalities primarily used by browser clients, such as sessions and cookies.</description>
+      <description>Before you get too excited and run rails new thecoolest --api on your terminal, it might be a good idea to take some time to consider what your needs are.
+How different is a Rails API-only from a full-stack Rails app? As you can see in the image below, the API-only is a lighter version of a full stack Rails app:
+The reason why it&amp;rsquo;s lighter is because Rails API-only won&amp;rsquo;t render HTML pages, handle user sessions &amp;amp; cookies, nor display any assets.</description>
     </item>
     
     <item>
@@ -25,8 +25,9 @@ That&amp;rsquo;s because a Rails API-only requests are stateless, so it won&amp;
       
       <guid>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</guid>
       <description>Which authentication strategy should you use for Rails API? How to implement a secure authentication strategy is by the far the most confusing part of building an API.
-It&amp;rsquo;s extremely important to evaluate your app requirements before choosing any strategy in the first place to avoid any security implications.
-There&amp;rsquo;s nothing worse than having to turn your entire Rails API-only into a regular Rails app because midway you realized you needed an OAuth authentication code flow or have an interface for your users, right?</description>
+It&amp;rsquo;s important to evaluate your app requirements before choosing any strategy in the first place to avoid any security implications.
+To help you figure out which authentication strategy is the best for your case, here are 5 possible solutions for you:
+Rails API-only If your API is running as a standalone app and you don&amp;rsquo;t need a web interface of any sort, then a header-based token auth might be enough.</description>
     </item>
     
   </channel>
