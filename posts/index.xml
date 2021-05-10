@@ -6,7 +6,18 @@
     <description>Recent content in Posts on 🌟 Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 11:06:37 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 12:27:31 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Thursdays</title>
+      <link>https://www.stefannibrasil.me/posts/open-source-thursdays/</link>
+      <pubDate>Sat, 08 May 2021 12:27:31 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/open-source-thursdays/</guid>
+      <description>What is Open Source Thursdays? Open Source Thursdays is a new project from the hexdevs team, aka me and Thiago.
+We started this project because we&amp;rsquo;ve always wanted to contribute to rails! So we thought, why not do it live so more people can join us? Our goal is to make open source contributions more popular.
+Neither of us has done this before. The plan is to get there and do everything live, no preparing in advance.</description>
+    </item>
+    
     <item>
       <title>Should I Get an Internship or Keep Practicing my Coding Skills?</title>
       <link>https://www.stefannibrasil.me/posts/should-i-get-an-internship-or-keep-practicing/</link>
