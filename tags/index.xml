@@ -6,20 +6,11 @@
     <description>Recent content in Tags on 🌟 Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 11:06:37 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>early career devs</title>
-      <link>https://www.stefannibrasil.me/tags/early-career-devs/</link>
-      <pubDate>Sat, 08 May 2021 11:06:37 -0700</pubDate>
-      
-      <guid>https://www.stefannibrasil.me/tags/early-career-devs/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 May 2021 15:08:41 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>open source</title>
       <link>https://www.stefannibrasil.me/tags/open-source/</link>
-      <pubDate>Wed, 28 Apr 2021 15:43:57 -0700</pubDate>
+      <pubDate>Tue, 11 May 2021 15:08:41 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/tags/open-source/</guid>
       <description></description>
@@ -28,7 +19,7 @@
     <item>
       <title>open source thursdays</title>
       <link>https://www.stefannibrasil.me/tags/open-source-thursdays/</link>
-      <pubDate>Wed, 28 Apr 2021 15:43:57 -0700</pubDate>
+      <pubDate>Tue, 11 May 2021 15:08:41 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/tags/open-source-thursdays/</guid>
       <description></description>
@@ -37,9 +28,18 @@
     <item>
       <title>ruby on rails</title>
       <link>https://www.stefannibrasil.me/tags/ruby-on-rails/</link>
-      <pubDate>Wed, 28 Apr 2021 15:43:57 -0700</pubDate>
+      <pubDate>Tue, 11 May 2021 15:08:41 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/tags/ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>early career devs</title>
+      <link>https://www.stefannibrasil.me/tags/early-career-devs/</link>
+      <pubDate>Sat, 08 May 2021 11:06:37 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/tags/early-career-devs/</guid>
       <description></description>
     </item>
     

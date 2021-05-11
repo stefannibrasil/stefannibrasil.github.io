@@ -6,7 +6,18 @@
     <description>Recent content on 🌟 Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 12:27:31 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 15:08:41 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribute to Ruby on Rails: filtering &amp; reproducing issues</title>
+      <link>https://www.stefannibrasil.me/posts/contribute-to-rails-github-part-2/</link>
+      <pubDate>Tue, 11 May 2021 15:08:41 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/contribute-to-rails-github-part-2/</guid>
+      <description>In the last Open Source Thursdays live, Thiago and I shared how we chose a few issues that looked promising for us.
+By the end of the post, you&amp;rsquo;ll learn how to filter issues, and how to start contributing to Rails by reproducing a bug.
+How to choose your first Ruby on Rails issue Which one from the +300 open issues should you pick? We tried breaking this process down into 2 parts: filtering them by labels, then choosing one that seems easier to fix.</description>
+    </item>
+    
     <item>
       <title>Open Source Thursdays</title>
       <link>https://www.stefannibrasil.me/posts/open-source-thursdays/</link>
