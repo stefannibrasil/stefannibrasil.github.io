@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>railsconf on 🌟 Stefanni Brasil</title>
+    <link>https://www.stefannibrasil.me/tags/railsconf/</link>
+    <description>Recent content in railsconf on 🌟 Stefanni Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 17:27:20 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/railsconf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Rails Conf 2021 Talks for Early Career Devs</title>
+      <link>https://www.stefannibrasil.me/posts/rails-conf-2021-talks-early-career-devs/</link>
+      <pubDate>Mon, 17 May 2021 17:27:20 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/rails-conf-2021-talks-early-career-devs/</guid>
+      <description>Rails Conf 2021 talks are all available on YouTube. That is great, except that now you have to go through the +100 talks to decide which one to watch first!
+If you are just getting started with your Rails journey, here are the top 5 talks for you (with resources):
+1. Implicit to Explicit: Decoding Ruby&amp;rsquo;s Magical Syntax by Justin Gordon [Workshop] Do you wish you could understand better what Rails do under the hood?</description>
+    </item>
+    
+  </channel>
+</rss>
