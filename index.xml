@@ -8,13 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Jun 2021 20:01:55 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to write Badass Github READMES for your projects</title>
+      <title>How to write Badass READMES for your Github projects</title>
       <link>https://www.stefannibrasil.me/posts/github-readme-examples-and-template/</link>
       <pubDate>Wed, 23 Jun 2021 20:01:55 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/github-readme-examples-and-template/</guid>
-      <description>You show your project on your GitHub portfolio to people but they don&amp;rsquo;t understand it. It&amp;rsquo;s easy to think they can simply &amp;ldquo;read the code&amp;rdquo;. You&amp;rsquo;re adding more friction to their job. Nobody likes that.
-What about making them feel impressed by improving your README? It saves time, it shows you care about working in a team and that by writing good docs you probably write good code as well.</description>
+      <description>You show your GitHub project to people but they don&amp;rsquo;t understand it. Why write docs if they can simply &amp;ldquo;read the code&amp;rdquo;?
+The problem with this approach is that it adds more friction to the reader. How did you feel last time someone did that to you?
+What about making them feel on-boarded and impressed with your README instead? It saves time, it shows you care about good communication and that by writing good docs you probably write good code as well.</description>
     </item>
     
     <item>
