@@ -13,9 +13,9 @@
       <pubDate>Wed, 23 Jun 2021 20:01:55 -0700</pubDate>
       
       <guid>https://www.stefannibrasil.me/posts/github-readme-examples-and-template/</guid>
-      <description>You show your GitHub project to people but they don&amp;rsquo;t understand it. Why write docs if they can simply &amp;ldquo;read the code&amp;rdquo;?
-The problem with this approach is that it adds more friction to the reader. How did you feel last time someone did that to you?
-What about making them feel on-boarded and impressed with your README instead? It saves time, it shows you care about good communication and that by writing good docs you probably write good code as well.</description>
+      <description>You show your GitHub project to people but they don&amp;rsquo;t understand what the code is about. Why should you take time to write a good README if they can simply &amp;ldquo;read the code&amp;rdquo;?
+They won&amp;rsquo;t even look at your code if you don&amp;rsquo;t explain what&amp;rsquo;s in it for them. Why should anyone care about it?
+What about making them curious about your project? It saves them time, it shows you care about good communication and that by writing good docs you probably write good code as well.</description>
     </item>
     
     <item>
