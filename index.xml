@@ -6,7 +6,19 @@
     <description>Recent content on 🌟 Stefanni Brasil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jul 2021 16:54:11 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 12:26:40 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get unstuck on your coding exercise with Just One Exercise</title>
+      <link>https://www.stefannibrasil.me/posts/stuck-on-programming-problem/</link>
+      <pubDate>Sat, 31 Jul 2021 12:26:40 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/stuck-on-programming-problem/</guid>
+      <description>You&amp;rsquo;re working on your coding project. Everything is going well.
+But it doesn&amp;rsquo;t take too long until you get stuck on your assignment. You try everything you possibly can, with the resources you have.
+You are mixing Ruby, JavaScript, Postgres. Doing crash courses, googling. You go to the docs but you don&amp;rsquo;t even know where to look. It&amp;rsquo;s almost as if it&amp;rsquo;s a foreign language.
+On StackOverflow, you see the same tips over and over.</description>
+    </item>
+    
     <item>
       <title>Worried you don&#39;t contribute to your team as an early career software engineer?</title>
       <link>https://www.stefannibrasil.me/posts/contribute-team-early-career-software-engineer/</link>
