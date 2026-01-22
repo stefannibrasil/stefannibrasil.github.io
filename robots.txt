@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /confirm-your-subscription/*
+Disallow: /my-referral-links/
 Disallow: /thank-you/
 Disallow: /railsconf/
 Disallow: /downloads/
