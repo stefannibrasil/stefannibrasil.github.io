@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rails api on 🚴‍♀️ Stefanni Brasil</title>
+    <link>https://www.stefannibrasil.me/tags/rails-api/</link>
+    <description>Recent content in rails api on 🚴‍♀️ Stefanni Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Apr 2021 17:41:48 -0700</lastBuildDate><atom:link href="https://www.stefannibrasil.me/tags/rails-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Should you create a new Rails app as API-only?</title>
+      <link>https://www.stefannibrasil.me/posts/should-you-go-with-rails-api-only/</link>
+      <pubDate>Mon, 05 Apr 2021 17:41:48 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/should-you-go-with-rails-api-only/</guid>
+      <description>Before you get too excited and run rails new thecoolest --api on your terminal, it might be a good idea to take some time to consider what your needs are.
+How different is a Rails API-only from a full-stack Rails app? As you can see in the image below, the API-only is a lighter version of a full stack Rails app:
+The reason why it&amp;rsquo;s lighter is because Rails API-only won&amp;rsquo;t render HTML pages, handle user sessions &amp;amp; cookies, nor display any assets.</description>
+    </item>
+    
+    <item>
+      <title>5 Ways to Handle Your Rails API Authentication</title>
+      <link>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</link>
+      <pubDate>Thu, 01 Apr 2021 13:12:38 -0700</pubDate>
+      
+      <guid>https://www.stefannibrasil.me/posts/5-ways-to-handle-your-rails-api-authentication/</guid>
+      <description>Which authentication strategy should you use for Rails API? How to implement a secure authentication strategy is by the far the most confusing part of building an API.
+It&amp;rsquo;s important to evaluate your app requirements before choosing any strategy in the first place to avoid any security implications.
+To help you figure out which authentication strategy is the best for your case, here are 5 possible solutions for you:
+Rails API-only If your API is running as a standalone app and you don&amp;rsquo;t need a web interface of any sort, then a header-based token auth might be enough.</description>
+    </item>
+    
+  </channel>
+</rss>
